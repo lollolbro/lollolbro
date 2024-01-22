@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lollolbro
+- 👀 I’m interested in games
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on turn base games
+- ⚡ Fun fact: The word cheese comes from Latin caseus, from which the modern word casein is also derived.
